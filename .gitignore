@@ -1,0 +1,14 @@
+# VS Code / Remote SSH
+.vscode/
+.vscode-server/
+vscode-server/
+
+# Node
+node_modules/
+
+# Docusaurus
+build/
+.cache/
+
+# OS junk
+.DS_Store
