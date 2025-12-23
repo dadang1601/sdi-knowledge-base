@@ -1,0 +1,20 @@
+{
+  "id": "network/topology",
+  "title": "Network Topology",
+  "description": "This document describes internal network topology.",
+  "source": "@site/docs/network/topology.md",
+  "sourceDirName": "network",
+  "slug": "/network/topology",
+  "permalink": "/docs/network/topology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/network/topology.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

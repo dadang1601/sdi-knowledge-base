@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "network/topology",
+              "path": "/docs/network/topology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/congratulations",
               "path": "/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
