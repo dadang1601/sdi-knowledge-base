@@ -5,3 +5,15 @@ build/
 
 # Node
 node_modules/
+
+# Docusaurus generated
+.docusaurus/
+build/
+.cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS / Editor
+.vscode/
