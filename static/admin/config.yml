@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: dadang1601/sdi-knowledge-base.git
+  branch: main
+  auth_type: pkce
+
+publish_mode: simple
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "docs"
+    label: "Knowledge Base"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
